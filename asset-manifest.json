@@ -1,7 +1,7 @@
 {
   "main.css": "/hackathon-trivastmago/static/css/main.c8fc8d13.chunk.css",
-  "main.js": "/hackathon-trivastmago/static/js/main.9d656d14.chunk.js",
-  "main.js.map": "/hackathon-trivastmago/static/js/main.9d656d14.chunk.js.map",
+  "main.js": "/hackathon-trivastmago/static/js/main.c0c7b8ba.chunk.js",
+  "main.js.map": "/hackathon-trivastmago/static/js/main.c0c7b8ba.chunk.js.map",
   "static/js/1.9ec7750d.chunk.js": "/hackathon-trivastmago/static/js/1.9ec7750d.chunk.js",
   "static/js/1.9ec7750d.chunk.js.map": "/hackathon-trivastmago/static/js/1.9ec7750d.chunk.js.map",
   "runtime~main.js": "/hackathon-trivastmago/static/js/runtime~main.66046c7e.js",
@@ -13,6 +13,6 @@
   "static/media/hotel.png": "/hackathon-trivastmago/static/media/hotel.c02a22e0.png",
   "static/css/main.c8fc8d13.chunk.css.map": "/hackathon-trivastmago/static/css/main.c8fc8d13.chunk.css.map",
   "index.html": "/hackathon-trivastmago/index.html",
-  "precache-manifest.796e90a309fdbdf6cb364675612e9702.js": "/hackathon-trivastmago/precache-manifest.796e90a309fdbdf6cb364675612e9702.js",
+  "precache-manifest.9a778dd5457a1fbd6afd48413e77973d.js": "/hackathon-trivastmago/precache-manifest.9a778dd5457a1fbd6afd48413e77973d.js",
   "service-worker.js": "/hackathon-trivastmago/service-worker.js"
 }

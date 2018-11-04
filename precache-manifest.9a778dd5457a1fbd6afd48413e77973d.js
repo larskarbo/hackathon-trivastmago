@@ -24,19 +24,19 @@ self.__precacheManifest = [
     "url": "/hackathon-trivastmago/static/js/runtime~main.66046c7e.js"
   },
   {
-    "revision": "9d656d146df5529be6f4",
-    "url": "/hackathon-trivastmago/static/js/main.9d656d14.chunk.js"
+    "revision": "c0c7b8baefb4b061887d",
+    "url": "/hackathon-trivastmago/static/js/main.c0c7b8ba.chunk.js"
   },
   {
     "revision": "9ec7750d36557eb853d7",
     "url": "/hackathon-trivastmago/static/js/1.9ec7750d.chunk.js"
   },
   {
-    "revision": "9d656d146df5529be6f4",
+    "revision": "c0c7b8baefb4b061887d",
     "url": "/hackathon-trivastmago/static/css/main.c8fc8d13.chunk.css"
   },
   {
-    "revision": "bfb93e05b445f3875c7eb25450ffdaa8",
+    "revision": "5bb77b7f7b7b9fa27e68d38e74303b13",
     "url": "/hackathon-trivastmago/index.html"
   }
 ];

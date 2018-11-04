@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/hackathon-trivastmago/precache-manifest.796e90a309fdbdf6cb364675612e9702.js"
+  "/hackathon-trivastmago/precache-manifest.9a778dd5457a1fbd6afd48413e77973d.js"
 );
 
 workbox.clientsClaim();
