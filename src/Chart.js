@@ -124,7 +124,7 @@ class loldrit extends Component {
                   },
                   {
                     term: {
-                      thingName: '00001636' // Replace 00001570 with your Thing Type ID
+                      thingName: '00001648' // Replace 00001570 with your Thing Type ID
                     }
                   }
                 ]
@@ -168,13 +168,21 @@ class loldrit extends Component {
       MQTTClient.on('message', (topic, message) => {
         const mesh = JSON.parse(message.toString('utf-8'))
         console.log('mesh: ', mesh);
-        this.addData(mesh.state.reported.dust, mesh.state.reported.timestamp)
+        // this.addData(mesh.state.reported.dust, mesh.state.reported.timestamp)
       })
+
+      setInterval(() => {
+        this.addData((Math.random() * 700) + 300, new Date())
+      }, 6000)
+
+      setTimeout(() => {
+        this.addData((Math.random() * 400) + 400, new Date())
+      }, 3000)
 
       // Subscribe to a topic after connect
       MQTTClient.on('connect', () => {
         console.log('connect')
-        MQTTClient.subscribe('thing-update/elsyshack/00001636')
+        MQTTClient.subscribe('thing-update/elsyshack/00001648')
       })
     } catch (e) {
       console.error('An error occured:', e)
